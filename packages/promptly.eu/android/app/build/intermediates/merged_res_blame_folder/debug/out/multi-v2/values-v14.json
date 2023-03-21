@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ctw00944-admin/rrs/projects/promptly/promptly-mobile/packages/promptly.eu/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/ctw00944-admin/.gradle/caches/transforms-3/cd3520d16e7c33dff0de53612fb1c533/transformed/jetified-mixpanel-android-5.9.1/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "605"
+                    }
+                }
+            ]
+        }
+    ]
+}

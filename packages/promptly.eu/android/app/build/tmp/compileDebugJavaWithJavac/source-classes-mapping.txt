@@ -1,0 +1,14 @@
+com/myprom/ReactNativeFlipper.java
+ com.promptlyhealth.myprom.ReactNativeFlipper
+ com.promptlyhealth.myprom.ReactNativeFlipper$1
+ com.promptlyhealth.myprom.ReactNativeFlipper$2
+ com.promptlyhealth.myprom.ReactNativeFlipper$2$1
+com/promptlyhealth/promptly/eu/BuildConfig.java
+ com.promptlyhealth.promptly.eu.BuildConfig
+com/promptlyhealth/promptly/eu/MainActivity.java
+ com.promptlyhealth.promptly.eu.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/promptlyhealth/promptly/eu/MainApplication.java
+ com.promptlyhealth.promptly.eu.MainApplication
+ com.promptlyhealth.promptly.eu.MainApplication$1

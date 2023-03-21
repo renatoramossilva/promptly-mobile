@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from build type: debug -->
+    <integer name="react_native_dev_server_port">8081</integer>
+    <!-- Value from build type: debug -->
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <!-- Value from default config. -->
+    <string name="APP_SCHEMA" translatable="false">"promptly"</string>
+    <!-- Value from default config. -->
+    <string name="CROWDIN_HASH" translatable="false">"33be56398230699ba9519186ujr"</string>
+    <!-- Value from default config. -->
+    <string name="HELPSCOUT" translatable="false">"{\"ROLE\": \"patient\", \"HELPSCOUT_APP_ID_MAPPING\":{\"promptly\": {\"patient\": \"3f53a1c1-39c2-42c8-8612-448ab9f93fac\"}}}"</string>
+    <!-- Value from default config. -->
+    <string name="HELPSCOUT_ROLE" translatable="false">"patient"</string>
+    <!-- Value from default config. -->
+    <string name="MIXPANEL" translatable="false">"71929c53624b6d47d61922e45e8a5fcb"</string>
+    <!-- Value from default config. -->
+    <string name="NOTIFICATIONS_REFRESH" translatable="false">"10000"</string>
+    <!-- Value from default config. -->
+    <string name="ONESIGNAL_ID" translatable="false">"ee370a0e-e11b-4af2-b8c5-a4c8ef86301d"</string>
+    <!-- Value from default config. -->
+    <string name="STATUS_COLOR" translatable="false">"#000000"</string>
+    <!-- Value from default config. -->
+    <string name="STORE_ANDROID" translatable="false">"https://install.appcenter.ms"</string>
+    <!-- Value from default config. -->
+    <string name="STORE_IOS" translatable="false">"https://install.appcenter.ms"</string>
+    <!-- Value from default config. -->
+    <string name="SYNC_INTERVAL" translatable="false">"900000"</string>
+    <!-- Value from default config. -->
+    <string name="WEBVIEW_HOST" translatable="false">"pt.pp.labs.promptly.health"</string>
+    <!-- Value from default config. -->
+    <string name="WEBVIEW_SCHEMA" translatable="false">"https"</string>
+    <!-- Value from default config. -->
+    <string name="WEBVIEW_URL" translatable="false">"https://pt.pp.labs.promptly.health"</string>
+    <!-- Value from default config. -->
+    <string name="WS_TIMEOUT" translatable="false">"5000"</string>
+    <!-- Value from default config. -->
+    <string name="waffle" translatable="false">"{\"helpscoutEnabled\":\"true\"}"</string>
+
+</resources>

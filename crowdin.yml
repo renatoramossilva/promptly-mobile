@@ -1,0 +1,8 @@
+base_path: ./
+preserve_hierarchy: true
+files:
+  - source: /packages/common/src/locales/mobile/en/app.json
+    translation: >-
+      /packages/common/src/locales/mobile/%two_letters_code%/%original_file_name%
+    type: json
+    update_option: update_as_unapproved

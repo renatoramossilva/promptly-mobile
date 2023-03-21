@@ -1,0 +1,135 @@
+{
+  "components": {
+    "Select": { 
+      "meta": { 
+        "parameters": { 
+          "height": 48,
+          "backgroundColor": "white",
+          "borderTopLeftRadius": 2,
+          "borderBottomLeftRadius": 2,
+          "borderTopRightRadius": 2,
+          "borderBottomRightRadius": 2,
+          "borderTopWidth": 2,
+          "borderBottomWidth": 2,
+          "borderRightWidth": 2,
+          "borderLeftWidth": 2,
+          "borderColor": "color-basic-200",
+          "fontSize": 20
+        }
+      }, 
+      "appearances": { 
+        "default": { 
+          "mapping": {
+            "labelFontWeight": "600"
+          }, 
+          "variantGroups": { 
+            "status": { 
+              "basic": {
+                "height": 48,
+                "backgroundColor": "white", 
+                "borderColor": "color-basic-200",
+                "borderTopWidth": 2,
+                "borderBottomWidth": 2,
+                "borderRightWidth": 2,
+                "borderLeftWidth": 2,
+                "borderTopLeftRadius": 2,
+                "borderBottomLeftRadius": 2,
+                "borderTopRightRadius": 2,
+                "borderBottomRightRadius": 2
+              } 
+            }
+          }
+        }
+      }
+    },
+    "Datepicker": { 
+      "meta": { 
+        "parameters": { 
+          "height": 48,
+          "backgroundColor": "white",
+          "borderTopLeftRadius": 2,
+          "borderBottomLeftRadius": 2,
+          "borderTopRightRadius": 2,
+          "borderBottomRightRadius": 2,
+          "borderTopWidth": 2,
+          "borderBottomWidth": 2,
+          "borderRightWidth": 2,
+          "borderLeftWidth": 2,
+          "borderColor": "color-basic-200",
+          "fontSize": 20
+        }
+      }, 
+      "appearances": { 
+        "default": { 
+          "mapping": {
+            "labelFontWeight": "600"
+          }, 
+          "variantGroups": { 
+            "status": { 
+              "basic": {
+                "height": 48,
+                "backgroundColor": "white", 
+                "borderColor": "color-basic-200",
+                "borderTopWidth": 2,
+                "borderBottomWidth": 2,
+                "borderRightWidth": 2,
+                "borderLeftWidth": 2,
+                "borderTopLeftRadius": 2,
+                "borderBottomLeftRadius": 2,
+                "borderTopRightRadius": 2,
+                "borderBottomRightRadius": 2
+              } 
+            }
+          }
+        }
+      }
+    },
+    "Card": {
+      "appearances": {
+        "outline": {
+          "mapping": {
+            "bodyPaddingHorizontal": 15
+          }
+        }
+      }
+    },
+    "Divider": {
+      "appearances": {
+        "default": {
+          "mapping": {
+            "backgroundColor": "color-basic-transparent-200"
+          }
+        }
+      }
+    }
+        
+  },
+  "strict": {
+    "text-font-family": "SourceSansPro-Regular",
+
+    "text-heading-1-font-size": 26,
+    "text-heading-1-font-weight": "normal",
+    "text-heading-1-font-family": "OpenSans-SemiBold",
+   
+    "text-heading-2-font-weight": "normal",
+    "text-heading-3-font-weight": "normal",
+    "text-heading-4-font-weight": "normal",
+    "text-heading-5-font-weight": "normal",
+
+    "text-subtitle-1-font-size": 15,
+    "text-subtitle-1-font-weight": "normal",
+    "text-subtitle-1-font-family": "OpenSans-SemiBold",
+
+    "text-paragraph-1-font-size": 15,
+    "text-paragraph-1-font-weight": "normal",
+    "text-paragraph-1-font-family": "SourceSansPro-Regular",
+
+    "text-caption-1-font-size": 12,
+    "text-caption-1-font-weight": "normal",
+    "text-caption-1-font-family": "SourceSansPro-Regular",
+
+    "text-label-font-size": 12,
+    "text-label-font-weight": "normal",
+    "text-label-font-family": "SourceSansPro-Regular"
+  }
+}

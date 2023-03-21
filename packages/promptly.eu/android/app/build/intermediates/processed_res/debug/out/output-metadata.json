@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.promptlyhealth.promptly.eu",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 25,
+      "versionName": "2.0.4",
+      "outputFile": "resources-debug.ap_"
+    }
+  ]
+}

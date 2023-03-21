@@ -1,1 +1,1 @@
-# promptly-mobile
+mobileapp

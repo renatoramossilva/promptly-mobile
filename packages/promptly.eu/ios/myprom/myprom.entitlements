@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:www.promptly.health</string>
+		<string>applinks:eb1d50bb.hs.promptly.health</string>
+		<string>applinks:c48c8199.hs.promptly.health</string>
+		<string>applinks:pt.labs.promptly.health</string>
+		<string>applinks:democuf.labs.promptly.health</string>
+		<string>applinks:staging.labs.promptly.health</string>
+		<string>applinks:staging2.labs.promptly.health</string>
+		<string>applinks:staging3.labs.promptly.health</string>
+		<string>applinks:medis.promptly.health</string>
+		<string>applinks:cuf.promptly.health</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.promptlyhealth.promptly.eu.onesignal</string>
+	</array>
+</dict>
+</plist>

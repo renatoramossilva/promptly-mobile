@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+    <key>AppSecret</key>
+    <string>02761bb5-b4aa-4acb-b406-1460e96ac358</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>For choosing a photo.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>For taking a photo.</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>For saving a photo.</string>
+    </dict>
+</plist>
